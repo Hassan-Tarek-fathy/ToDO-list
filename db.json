@@ -1,0 +1,328 @@
+{
+  "users": [
+    {
+      "id": "0acf",
+      "username": "slama",
+      "password": "0102030"
+    },
+    {
+      "id": "b5f1",
+      "username": "mazen",
+      "password": "0102040"
+    },
+    {
+      "id": "84ad",
+      "username": "hasssanhassan",
+      "password": "123456789"
+    },
+    {
+      "id": "04e9",
+      "username": "hassan",
+      "password": "12345678"
+    },
+    {
+      "id": "1c91",
+      "username": "www.ee",
+      "password": "123456789"
+    },
+    {
+      "id": "cdc1",
+      "username": "reactproject",
+      "password": "12345678"
+    },
+    {
+      "id": "4931",
+      "username": "php",
+      "password": "12345678"
+    },
+    {
+      "id": "cd41",
+      "username": "tarek",
+      "password": "98765432"
+    },
+    {
+      "id": "bc79",
+      "username": "hasssanhassan",
+      "password": "123456789"
+    },
+    {
+      "id": "0304",
+      "username": "hasssanhassan",
+      "password": "123456789"
+    },
+    {
+      "id": "b5f2",
+      "username": "hasssanhassan",
+      "password": "123456789"
+    },
+    {
+      "id": "ed77",
+      "username": "hamada",
+      "password": "12345678"
+    },
+    {
+      "id": "5d81",
+      "username": "hassan2",
+      "password": "12345678"
+    }
+  ],
+  "todos": [
+    {
+      "id": "c0bc",
+      "completed": false,
+      "task": "play",
+      "userId": "b5f1"
+    },
+    {
+      "id": "e0ae",
+      "task": "knkn",
+      "priority": "High",
+      "dueDate": "2024-08-02",
+      "status": "Completed",
+      "description": "rtrtrtrtrt",
+      "completed": true,
+      "userId": "1c91"
+    },
+    {
+      "id": "bd36",
+      "task": "k",
+      "priority": "High",
+      "dueDate": "2024-08-09",
+      "status": "In Progress",
+      "description": "",
+      "completed": false,
+      "userId": "1c91"
+    },
+    {
+      "id": "3587",
+      "task": "r",
+      "priority": "Low",
+      "dueDate": "",
+      "status": "Completed",
+      "description": "",
+      "completed": true,
+      "userId": "1c91"
+    },
+    {
+      "id": "b396",
+      "task": "aaaa",
+      "priority": "Normal",
+      "dueDate": "2024-08-09",
+      "status": "Completed",
+      "description": "wwwwwwwww",
+      "completed": false,
+      "userId": "1c91"
+    },
+    {
+      "id": "2fe8",
+      "task": "2333",
+      "priority": "Normal",
+      "dueDate": "2024-08-31",
+      "description": "",
+      "completed": false,
+      "userId": "84ad",
+      "createdAt": "2024-08-13T23:36:53.002Z"
+    },
+    {
+      "id": "87ee",
+      "task": "6",
+      "priority": "Normal",
+      "dueDate": "2024-08-14",
+      "description": "",
+      "completed": false,
+      "userId": "84ad",
+      "createdAt": "2024-08-13T23:39:52.832Z"
+    },
+    {
+      "id": "58fa",
+      "task": "4",
+      "priority": "Low",
+      "dueDate": "2024-09-30",
+      "description": "",
+      "completed": false,
+      "userId": "84ad",
+      "createdAt": "2024-08-13T23:40:22.208Z"
+    },
+    {
+      "id": "e78e",
+      "task": "3",
+      "priority": "High",
+      "dueDate": "2024-08-15",
+      "description": "",
+      "completed": false,
+      "userId": "84ad",
+      "createdAt": "2024-08-14T00:04:15.695Z"
+    },
+    {
+      "id": "1bfc",
+      "task": "task 1",
+      "priority": "Low",
+      "dueDate": "2024-08-16",
+      "description": "end today",
+      "completed": false,
+      "userId": "4931"
+    },
+    {
+      "id": "561a",
+      "task": "task 2",
+      "priority": "High",
+      "dueDate": "2024-08-15",
+      "description": "task now",
+      "completed": false,
+      "userId": "4931"
+    },
+    {
+      "id": "b138",
+      "task": "task 3",
+      "priority": "Normal",
+      "dueDate": "2024-08-16",
+      "description": "f",
+      "completed": false,
+      "userId": "4931"
+    },
+    {
+      "id": "4920",
+      "task": "4",
+      "priority": "Normal",
+      "dueDate": "2024-08-16",
+      "description": "",
+      "completed": false,
+      "userId": "84ad"
+    },
+    {
+      "id": "57b9",
+      "task": "7",
+      "priority": "Normal",
+      "dueDate": "2024-08-30",
+      "description": "",
+      "completed": true,
+      "userId": "84ad"
+    },
+    {
+      "id": "9756",
+      "task": "8",
+      "priority": "Normal",
+      "dueDate": "",
+      "description": "",
+      "completed": false,
+      "userId": "84ad"
+    },
+    {
+      "id": "5699",
+      "task": "task 3",
+      "priority": "High",
+      "dueDate": "",
+      "description": "",
+      "completed": false,
+      "userId": "84ad"
+    },
+    {
+      "id": "fd5d",
+      "task": "10",
+      "priority": "Normal",
+      "dueDate": "",
+      "description": "",
+      "completed": true,
+      "userId": "84ad"
+    },
+    {
+      "id": "81ea",
+      "task": "tasks1",
+      "priority": "Normal",
+      "dueDate": "2024-08-22",
+      "description": "",
+      "completed": false,
+      "userId": "04e9"
+    },
+    {
+      "id": "b178",
+      "task": "44",
+      "priority": "High",
+      "dueDate": "2024-08-29",
+      "description": "",
+      "completed": false,
+      "userId": "1c91"
+    },
+    {
+      "id": "709f",
+      "task": "545",
+      "priority": "Normal",
+      "dueDate": "",
+      "description": "",
+      "completed": false,
+      "userId": "1c91"
+    },
+    {
+      "id": "cec8",
+      "task": "5555",
+      "priority": "Normal",
+      "dueDate": "",
+      "description": "",
+      "completed": false,
+      "userId": "1c91"
+    },
+    {
+      "id": "c4a1",
+      "task": "5555",
+      "priority": "Normal",
+      "dueDate": "",
+      "description": "",
+      "completed": false,
+      "userId": "1c91"
+    },
+    {
+      "id": "841d",
+      "task": "fnrfkjef",
+      "priority": "Normal",
+      "dueDate": "",
+      "description": "",
+      "completed": false,
+      "userId": "1c91"
+    },
+    {
+      "id": "560a",
+      "task": "11",
+      "priority": "High",
+      "dueDate": "",
+      "description": "",
+      "completed": false,
+      "userId": "84ad"
+    },
+    {
+      "id": "dfe4",
+      "task": "knkn",
+      "priority": "Normal",
+      "dueDate": "2024-08-15",
+      "description": "",
+      "completed": false,
+      "userId": "84ad"
+    },
+    {
+      "id": "1a6e",
+      "task": "",
+      "priority": "Normal",
+      "dueDate": "",
+      "description": "",
+      "completed": false,
+      "userId": "5d81"
+    },
+    {
+      "id": "1101",
+      "task": "task",
+      "priority": "Normal",
+      "dueDate": "2024-08-16",
+      "description": "",
+      "completed": true,
+      "userId": "5d81"
+    },
+    {
+      "id": "508e",
+      "task": "3",
+      "priority": "High",
+      "dueDate": "2024-08-24",
+      "description": "",
+      "completed": false,
+      "userId": "5d81"
+    }
+  ]
+}

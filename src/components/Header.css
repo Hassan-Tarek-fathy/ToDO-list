@@ -1,0 +1,17 @@
+/* src/components/Header.css */
+
+.custom-select {
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+    background-color: #f8f9fa; /* Light gray background for select */
+    color: #495057; /* Dark gray text color */
+    font-size: 1rem; /* Adjust font size */
+  }
+  
+  .custom-select option {
+    background-color: #f8f9fa; /* Match select background */
+    color: #495057; /* Match select text color */
+  }
+  
+  /* Add additional styling as needed */
+  
